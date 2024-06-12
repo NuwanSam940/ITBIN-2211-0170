@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/View/Orders.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Utils/DBconnect.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Model/Flower_Type.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Controller/IFlower_TypeImpl.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/View/Loging.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Controller/OrderImpl.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/View/Dashboard.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/View/Flower_Types.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Controller/ICustomer.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Model/Order.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Controller/Flowedr_TypeImpl.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Controller/CustomerImpl.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/View/Customer.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Controller/IOrder.java</file>
+            <file>file:/C:/Users/wiliy/Documents/NetBeansProjects/Lassana%20Flora%20Management%20System/src/Model/Customer.java</file>
+        </group>
+    </open-files>
+</project-private>
